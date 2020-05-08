@@ -1,6 +1,6 @@
 # 30 Days of Tableau
 
-### Here, I will be uploading all my notes and work that I did in these 30 days.
+### I will be uploading all my notes and the visualizations of these 30 days here.
 
 I am starting with #30daysoftableau today.
 
