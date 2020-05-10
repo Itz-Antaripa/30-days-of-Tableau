@@ -20,3 +20,5 @@ If your goal is to become a data professional, then you should definitely go for
 This is the wrong framing of the question. It’s like saying should I buy a bread knife or a steak knife. They both have their applications.
 
 So, stop worrying about which one is better and start learning. At the end of the day, learning is always enriching and fun.
+
+## I highly recommend every one who is following my notes to start from Day 1 of my notes. Don't skip in middle, else you will be confused (FOR BEGINNERS) !
