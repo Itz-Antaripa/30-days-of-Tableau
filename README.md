@@ -2,6 +2,8 @@
 
 ### I will be uploading all my notes and the visualizations of these 30 days here.
 
+#### I highly recommend every one who is following my notes to start from Day 1 of my notes. Don't skip in middle, else you will be confused (FOR BEGINNERS) !
+
 I am starting with #30daysoftableau today.
 
 Before starting anything, we need to be clear about why we are doing this? 
@@ -21,4 +23,4 @@ This is the wrong framing of the question. It’s like saying should I buy a bre
 
 So, stop worrying about which one is better and start learning. At the end of the day, learning is always enriching and fun.
 
-## I highly recommend every one who is following my notes to start from Day 1 of my notes. Don't skip in middle, else you will be confused (FOR BEGINNERS) !
+
